@@ -7,11 +7,11 @@ To write a program to find the LU Decomposition of a matrix.
 1. Hardware – PCs
 2. Anaconda – Python 3.7 Installation / Moodle-Code Runner
 
-## Algorithm
-1.Import the numpy module and scipy.linalg module to use the built-in functions for calculation.
-2.Prepare the lists from each linear equations and assign in np.array()
-3.Perform scipy.linalg.lu() to find the pivot table, lower traingle and upper triangle matrix.
-4.End the Program
+### Algorithm
+1. Import the numpy module and scipy.linalg module to use the built-in functions for calculation.
+2. Prepare the lists from each linear equations and assign in np.array()
+3. Perform scipy.linalg.lu() to find the pivot table, lower traingle and upper triangle matrix.
+4. End the Program
 ## Program:
 (i) To find the L and U matrix
 ```python
